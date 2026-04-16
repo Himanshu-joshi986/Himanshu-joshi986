@@ -198,27 +198,30 @@
 
 <br/>
 
+<div align="center">
+
+<!-- 📟 SYSTEM CORE STATS -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Himanshu-joshi986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-joshi986&theme=tokyonight&hide_border=true&background=060610&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=10&sideLabels=00d4ff&dates=7df9ff" />
 
 <br/><br/>
 
+<!-- 🧬 LANGUAGES + ACTIVITY GRAPH -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-joshi986&layout=compact&theme=tokyonight&hide_border=true&bg_color=060610&title_color=00d4ff&text_color=c9d1d9&border_radius=10&langs_count=8&count_private=true" />
+
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-joshi986&bg_color=060610&color=00d4ff&line=0f3460&point=00d4ff&area=true&area_color=0f3460&hide_border=true&radius=10" />
 
 <br/><br/>
 
-<p align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Himanshu-joshi986&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
-</p>
-
-<br/><br/>
-
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </picture>
+
+</div>
 
 <br/><br/>
 
