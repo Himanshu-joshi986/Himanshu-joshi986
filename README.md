@@ -208,7 +208,9 @@
 
 <br/><br/>
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Himanshu-joshi986&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
+<p align="center">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Himanshu-joshi986&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
+</p>
 
 <br/><br/>
 
